@@ -1,2 +1,2 @@
 # MyFirstApp
-Android 프로젝트
+Gradle, IntelliJ 기반의 Android 예제 프로젝트
