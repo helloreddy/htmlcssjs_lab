@@ -1,2 +1,2 @@
 # abouthtmlcssjs
-HTML, CSS, JavaScript 연습용
+a repository to test web languages only
